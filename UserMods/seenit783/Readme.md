@@ -35,7 +35,7 @@ This mod is licensed under the [MIT License](https://example.com/license). See t
 ## Contact
 Angus MacLeod On Discord
 
-For further assistance, you can contact the mod author at [email@example.com](mailto:richardferrington@gmail.com).
+For further assistance, you can contact the mod author at [richardferrington@gmail.com](mailto:richardferrington@gmail.com).
 Angus MacLeod on Discord
 ---
 
