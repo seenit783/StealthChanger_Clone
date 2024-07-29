@@ -5,7 +5,7 @@
 This user mod provides compatibility between the [EBB36](https://example.com/ebb36) and the [Galileo 2 Standalone](https://github.com/JaredC01/Galileo2/tree/main/galileo2_standalone) system. The mod enables seamless integration, allowing users to utilize these two components together efficiently.
 
 <img src="./20240728_202034.jpg"  width="500" />
-<img src="./20240728_202042.jpg"  width="500" />
+<img src="./20240728_202043.jpg"  width="500" />
 <img src="./20240728_202050.jpg"  width="500" />
 *Image of the EBB36 device*
 
