@@ -7,7 +7,7 @@ This user mod provides compatibility between the [EBB36](https://example.com/ebb
 <img src="./20240728_202034.jpg"  width="500" />
 <img src="./20240728_202043.jpg"  width="500" />
 <img src="./20240728_202050.jpg"  width="500" />
-*Image of the EBB36 device*
+*Image of the Galileo 2 Stand Alone device*
 
 ![Galileo 2 Standalone](https://github.com/JaredC01/Galileo2/blob/main/images/g2sa.png)  
 *Image of the Galileo 2 Standalone system*
